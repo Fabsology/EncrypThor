@@ -1,0 +1,11 @@
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\bin\Debug\EncrypThor.exe.config
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\bin\Debug\EncrypThor.exe
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\bin\Debug\EncrypThor.pdb
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\obj\Debug\EncrypThor.csproj.AssemblyReference.cache
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\obj\Debug\EncrypThor.Properties.Resources.resources
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\obj\Debug\EncrypThor.csproj.GenerateResource.cache
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\obj\Debug\EncrypThor.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\obj\Debug\EncrypThor.exe
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\obj\Debug\EncrypThor.pdb
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\obj\Debug\EncrypThor.Form1.resources
+D:\Visual Studio\Repos\New\EncrypThor\EncrypThor\bin\Debug\Resources\odinson.ttf
